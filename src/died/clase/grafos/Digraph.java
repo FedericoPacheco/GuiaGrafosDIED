@@ -197,7 +197,7 @@ public class Digraph <T> {
     }
     
     // ----------------------------------------------------------------------------------------------------------------
-    
+    // Me: 
     public Integer eccentricity(Vertex<T> v) // Use it preferably with connected digraphs
     {
     	// https://en.wikipedia.org/wiki/Distance_(graph_theory)
